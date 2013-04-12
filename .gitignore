@@ -13,9 +13,6 @@
 
 !library/
 library/*
-!library/.project
-!library/.classpath
-!library/.settings/
 !library/src/
 !library/res/
 !library/AndroidManifest.xml
